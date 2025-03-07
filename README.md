@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aarish...!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aarish...!;+Backend Developer;+Ethical Hacker;" />
 </h1>
 
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🌱 I’m currently learning:
 - DSA
-- Practical Ethical Hacking
+- [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 
 ### 🧰 Languages and Tools
 
@@ -32,10 +32,4 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<br />
-
-<br />
-
-#
-
 <br />
